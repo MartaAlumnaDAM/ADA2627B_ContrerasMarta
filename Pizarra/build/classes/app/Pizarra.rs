@@ -1,0 +1,2 @@
+app.Pizarra
+app.Filtrar

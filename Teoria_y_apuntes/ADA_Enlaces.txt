@@ -1,0 +1,25 @@
+ADA
+
+Videos
+
+UD0 Iniciacion a Java
+https://www.youtube.com/watch?v=-n6lHY6qcY8
+
+UD1 Introducción al acceso a datos
+https://www.youtube.com/watch?v=hktLgCSDBDM
+
+El Big Data en 3 minutos
+https://www.youtube.com/watch?v=w4vsFKMO7XA
+
+Ranking Tiobe
+https://www.tiobe.com/tiobe-index/
+
+Información sobre sistemas gestores de bases de datos
+https://db-engines.com/en/systems
+
+UD2_1_Ficheros de texto
+https://www.youtube.com/watch?v=ze0K1Kdrq6I
+
+UD2_Manejo de ficheros
+https://www.youtube.com/watch?v=ql5RaqeSUyc
+

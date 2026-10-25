@@ -1,0 +1,10 @@
+Este es un fichero de texto
+que contiene varias líneas
+y se crea con BufferedWriter.
+Este es un fichero de texto
+que contiene varias líneas
+y se crea con BufferedWriter.
+Este es un fichero de texto
+que contiene varias líneas
+y se crea con BufferedWriter.
+

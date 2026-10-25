@@ -1,0 +1,28 @@
+Kafka
+
+Base de datos por evento. 
+Por ejemplo en Amazon, el carrito de la compra guarda
+estados, si algún producto se ingresó y luego se quitó,
+no lo quita, cambia de estado. Después mapea estos estados
+para "sugerir" productos similares.
+
+Con Ctrl + . cuando se esté sobre un error, nos ofrece un
+menú contextual, donde podremos "add throw exception", para 
+agregar el código que lance la excepción o Souround para
+envolver el error en el bloque de código o para subir el
+error a otro nivel de código
+			
+JSON:
+
+Libreria		Permite						Metodos
+JSON.ORG		JSONObject / JSONArray		Crearlo o montarlo
+											A partir de un String
+											A partir de un Objeto tipado
+											Clases -> String Ok
+											Tipado <- String NO
+											
+GSON										De Clases --> String											
+											Tipadas  <-- String
+											
+Jackson										De Clases --> String
+											Tipadas  <-- String			
