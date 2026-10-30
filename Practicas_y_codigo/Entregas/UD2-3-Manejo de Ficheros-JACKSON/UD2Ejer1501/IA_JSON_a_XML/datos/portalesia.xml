@@ -1,0 +1,74 @@
+<portales>
+  <ia>
+    <nombre>OpenAI</nombre>
+    <url>https://openai.com</url>
+    <model>GPT-4o</model>
+    <propietario nombre="OpenAI LP">
+      <fundacion>2015</fundacion>
+      <sede>San Francisco, EE.UU.</sede>
+    </propietario>
+  </ia>
+  <ia>
+    <nombre>Google AI</nombre>
+    <url>https://ai.google</url>
+    <model>Gemini 2.0 Flash</model>
+    <propietario nombre="Google LLC">
+      <fundacion>1998</fundacion>
+      <sede>Mountain View, EE.UU.</sede>
+    </propietario>
+  </ia>
+  <ia>
+    <nombre>Anthropic</nombre>
+    <url>https://anthropic.com</url>
+    <model>Claude 3.5 Sonnet</model>
+    <propietario nombre="Anthropic PBC">
+      <fundacion>2021</fundacion>
+      <sede>San Francisco, EE.UU.</sede>
+    </propietario>
+  </ia>
+  <ia>
+    <nombre>Mistral AI</nombre>
+    <url>https://mistral.ai</url>
+    <model>Mistral Large 2</model>
+    <propietario nombre="Mistral AI SAS">
+      <fundacion>2023</fundacion>
+      <sede>París, Francia</sede>
+    </propietario>
+  </ia>
+  <ia>
+    <nombre>Qwen</nombre>
+    <url>https://qwenlm.ai</url>
+    <model>Qwen2.5-72B</model>
+    <propietario nombre="Alibaba Cloud">
+      <fundacion>2009</fundacion>
+      <sede>Hangzhou, China</sede>
+    </propietario>
+  </ia>
+  <ia>
+    <nombre>DeepSeek</nombre>
+    <url>https://deepseek.com</url>
+    <model>DeepSeek-V3</model>
+    <propietario nombre="DeepSeek Company">
+      <fundacion>2023</fundacion>
+      <sede>Hangzhou, China</sede>
+    </propietario>
+  </ia>
+  <ia>
+    <nombre>Manus</nombre>
+    <url>https://manus.im</url>
+    <model>Manus AI Agent</model>
+    <propietario nombre="Manus AI">
+      <fundacion>2024</fundacion>
+      <sede>Beijing, China</sede>
+    </propietario>
+  </ia>
+  <ia>
+    <nombre>Stability AI</nombre>
+    <url>https://stability.ai</url>
+    <model>Stable Diffusion 3.5</model>
+    <propietario nombre="Stability AI Ltd.">
+      <fundacion>2020</fundacion>
+      <sede>Londres, Reino Unido</sede>
+    </propietario>
+  </ia>
+</portales>

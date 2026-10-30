@@ -3,6 +3,7 @@ package app;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.stream.Collectors;
+<<<<<<< HEAD
 
 interface Filtrar<T>{
     boolean filtra(T n);
@@ -30,6 +31,36 @@ public class Pizarra {
         for(Integer par : pares){
             System.out.println(par);
         }
+=======
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+public class Pizarra {
+
+    public static void main(String[] args) {
+        
+        JSONObject json = new JSONObject();
+        
+        json.put("elementoUno:", "Primero");
+        json.put("elementoDos:", "Segundo");
+        
+        JSONArray jArray = new JSONArray();
+        JSONObject jObj;
+        
+        jObj = new JSONObject();
+        jObj.put("subelementoUno:", "Subelemento1");
+        jArray.put(jObj);
+        
+        jObj = new JSONObject();
+        jObj.put("subelementoDos:", "Subelemento2");
+        jArray.put(jObj);
+        
+        json.put("subelementos: ", jArray);
+        
+        System.out.println(json.toString(2));
+           
+        
+>>>>>>> e7f819b2aa2c04ea1aa281bc28974e9c394e9d7a
     }
 
 }
