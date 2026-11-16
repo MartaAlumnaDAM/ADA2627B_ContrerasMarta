@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=hktLgCSDBDM
 El Big Data en 3 minutos
 https://www.youtube.com/watch?v=w4vsFKMO7XA
 
+BD - Información de diferentes Sistemas Gestores de Bases de Datos
+https://db-engines.com/en/systems
+
 Ranking Tiobe
 https://www.tiobe.com/tiobe-index/
 
@@ -20,6 +23,28 @@ https://db-engines.com/en/systems
 UD2_1_Ficheros de texto
 https://www.youtube.com/watch?v=ze0K1Kdrq6I
 
-UD2_Manejo de ficheros
+UD2-2 Ficheros JSON - YOUTUBE
 https://www.youtube.com/watch?v=ql5RaqeSUyc
 
+UD3-1 - BD Relacionales - MSAccess
+https://www.youtube.com/watch?v=jTlL4cgxhAs
+
+UD3-1 - BD Relacionales - SQLite
+https://www.youtube.com/watch?v=RUseRZl1F9s
+
+UD3-1 - BD Relacionales - MySQL Server - YOUTUBE
+https://www.youtube.com/watch?v=jx_bScIC1Uk
+
+UD3-1 - BD Relacionales - MySQL Server - YOUTUBE
+https://www.youtube.com/watch?v=Zkga3lamgrM
+
+UD3-1 - BD Relacionales - JDBC_Introducción
+https://www.youtube.com/watch?v=EQ15aca9umE
+
+UD4-1 ORM JPA - YOUTUBE
+https://www.youtube.com/watch?v=Ks1uRrh33h0   	//Introducción
+https://www.youtube.com/watch?v=66mKtCXVTPo		//Actualizaciones
+
+UD4-2 - Modelo Objeto Relacional - ORM JPA con varias tablas
+https://www.youtube.com/watch?v=PpuMRSgq7UA
+https://www.youtube.com/watch?v=JnvUinqMzSA

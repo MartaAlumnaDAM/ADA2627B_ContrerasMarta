@@ -35,7 +35,7 @@ public class UD3Ejer201 {
                 }
 
             } catch (SQLException se) {
-                se.printStackTrace();
+                System.out.println(se.getErrorCode() + " " + se.getMessage());
             }
 
         } catch (ClassNotFoundException ce) {
