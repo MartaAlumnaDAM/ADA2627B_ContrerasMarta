@@ -1,0 +1,1 @@
+SELECT * FROM bibliotecah3.libros;
