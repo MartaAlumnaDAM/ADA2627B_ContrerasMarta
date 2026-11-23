@@ -21,7 +21,7 @@ import java.util.Collection;
 
 /**
  *
- * @author marta
+ * @author alumno
  */
 @Entity
 @Table(name = "canalestv")

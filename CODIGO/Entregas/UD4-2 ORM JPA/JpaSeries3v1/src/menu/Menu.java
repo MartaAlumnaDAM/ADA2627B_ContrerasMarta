@@ -1,6 +1,5 @@
 package menu;
 
-import bdagenda.TareasJpaController;
 import bdseriestv.CanalestvJpaController;
 import bdseriestv.SeriesJpaController;
 import jakarta.persistence.*;

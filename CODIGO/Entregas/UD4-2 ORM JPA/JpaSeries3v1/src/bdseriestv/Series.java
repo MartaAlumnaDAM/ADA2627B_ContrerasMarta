@@ -22,7 +22,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author marta
+ * @author alumno
  */
 @Entity
 @Table(name = "series")

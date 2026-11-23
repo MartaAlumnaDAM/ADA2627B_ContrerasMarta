@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  *
- * @author marta
+ * @author alumno
  */
 public class SeriesJpaController implements Serializable {
 

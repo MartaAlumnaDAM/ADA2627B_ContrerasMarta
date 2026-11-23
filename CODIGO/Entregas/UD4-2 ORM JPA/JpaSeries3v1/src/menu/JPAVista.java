@@ -26,7 +26,7 @@ public class JPAVista {
         System.out.println(lineaSeparadora);
 
         for (Series serie : lista) {
-            System.out.printf("| %-2s | %-10s | %-40s | %-10s |%n", serie.getCodigo(),serie.getTitulo(),serie.getCanaltv(),serie.getDuracion() );
+            System.out.printf("| %-2s | %-20s | %-10s | %-8s |%n", serie.getCodigo(),serie.getTitulo(),serie.getCanaltv().getNombre(),serie.getDuracion() );
         }
 
     }
@@ -51,6 +51,5 @@ public class JPAVista {
         }
     }
 
-    
 
 }
